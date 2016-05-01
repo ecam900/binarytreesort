@@ -1,5 +1,3 @@
-require 'node'
-
 class BTreesort
 	attr_reader :payload, :left, :right, :sort
 
